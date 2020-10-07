@@ -1,0 +1,26 @@
+A csoport																										Németh Dámiel  9/A
+
+
+1.:Inline:kihasználja az összes lehetséges helyet. PL.:a,img
+   Blokk:Mindig új sort kezd. PL.:h1-h6,p
+
+2.:<meta http-equiv='refresh' content='5' />
+
+
+3.:<div style='background-color:red;color:white;'>
+
+
+4.:<meta author:name='Németh Dániel' />
+
+
+5.:<img src='../../alt='kép.jpg' />
+
+
++1.:<!DOCTYPE html>
+<html>
+	<head>
+	<body>
+
+	</head>
+	</body>
+</html>
